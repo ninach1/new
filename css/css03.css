@@ -1,0 +1,7 @@
+.basketButton {width: 30px; height: auto; cursor: pointer; position: relative;}
+
+	.basketButton .quan {display: block; font-size: 0.5em; color: rgb(255,255,255); background-color: rgb(237,172,63); border: 1px solid rgb(237,172,20); border-radius: 50%; width: 15px; height: 15px; text-align: center; line-height: 15px; position: absolute; right: 0px; bottom: 0px; transition: all .1s ease-in-out}
+		.basketButton .quan.scaled {display: block; font-size: 0.7em; color: rgb(255,255,255); border: 1px solid #089619; border-radius: 50%; width: 20px; height: 20px; text-align: center; line-height: 20px; position: absolute; right: -2px; bottom: -2px; background-color: #089619}
+
+
+input[type=button] {margin-top: 10px;font-size: 0.875em; padding: 3px 10px; border: 2px solid #000; display: block; color: #000; text-align: center; background: rgba(255,255,255,1); border-radius: 0; display: inline-block; zoom: 1; transition: all 0.1s ease}
