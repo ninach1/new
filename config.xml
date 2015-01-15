@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.yuanyuanyuanNewApp"
+        id        = "com.phonegap.Rainbow Super Yuan"
         version   = "1.0.0">
 
-    <name>yuan yuan yuan</name>
+    <name>Rainbow Super Yuan</name>
 
     <description>
-        yuan yuan yuan sample application that responds to the deviceready event.
+       Rainbow Super Yuan sample application that responds to the deviceready event.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
